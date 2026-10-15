@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="ie lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>    <html class="ie lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>    <html class="ie lt-ie9"> <![endif]-->
+<!--[if gt IE 8]> <html> <![endif]-->
+<!--[if !IE]><!--><html lang="en"><!-- <![endif]-->
+<head>
+	<title>Happy Birthday</title>
+	<meta charset="UTF-8" />
+	<meta name="description" content="Happy Birthday">
+	<meta name="robots" content="index, follow" />
+	<link rel="author" href="https://plus.google.com/u/1/+SaptheshV/" /> 
+    <meta name="keywords" content="Birthday, Happy">
+    <!-- Strat of Facebook Meta -->
+    <meta property="og:type" content="E-Greeting" />
+    <meta property="og:image" content="favicon.ico" />
+    <meta property="og:description" content="I wish you the alyatics birthday">
+    <!-- End of Facebook Meta Tags -->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, minimum-scale=1.0, maximum-scale=1.0">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="apple-mobile-web-app-status-bar-style" content="black">
+	<meta http-equiv="X-UA-Compatible" content="IE=9; IE=8; IE=7; IE=EDGE" />
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="stylesheet.css">
+	<link rel="stylesheet" type="text/css" href="loading.css">
+	<link href='http://fonts.googleapis.com/css?family=Signika' rel='stylesheet' type='text/css'>
+	<!-- <link href='http://fonts.googleapis.com/css?family=Nunito' rel='stylesheet' type='text/css'> -->
+	<link rel="stylesheet/less" href="cake.less">
+	<script src="//cdnjs.cloudflare.com/ajax/libs/less.js/2.1.0/less.min.js"></script>
+</head>
+
+<body>
+	<div class="loading"></div>
+	<audio class="song" controls loop>
+        <source src="hbd.mp3"></source>
+	   Your browser isn't invited for super fun audio time.
+    </audio>
+    <div class="balloons text-center" id="b1">
+    	<h2 style="color:#F2B300;">H</h2>
+    </div>
+    <div class="balloons text-center" id="b2">
+    	<h2 style="color:#0719D4;">B</h2>
+    </div>
+	<div class="balloons text-center" id="b3">
+    	<h2 style="color:#D14D39;">D</h2>
+    </div>
+	<div class="balloons text-center" id="b4">
+    	<h2 style="color:#8FAD00;">Y</h2>
+    </div>
+	<div class="balloons text-center" id="b5">
+    	<h2 style="color:#8377E4;">A</h2>
+    </div>
+    <div class="balloons text-center" id="b6">
+    	<h2 style="color:#99C96A;">N</h2>
+    </div>
+    <div class="balloons text-center" id="b7">
+    	<h2 style="color:#20CFB4;">N</h2>
+    </div>
+
+    <img src="Balloon-Border.png" width="100%" class="balloon-border">
+ 
+
+	<div class="container">
+		
+		<div class="row">
+			<div class="col-md-2 col-xs-2 bulb-holder">
+				<div class="bulb" id="bulb_yellow"></div>
+			</div>
+			<div class="col-md-2 col-xs-2 bulb-holder">
+				<div class="bulb" id="bulb_red"></div>
+			</div>
+			<div class="col-md-2 col-xs-2 bulb-holder">
+				<div class="bulb" id="bulb_blue"></div>
+			</div>
+			<div class="col-md-2 col-xs-2 bulb-holder">
+				<div class="bulb" id="bulb_green"></div>
+			</div>
+			<div class="col-md-2 col-xs-2 bulb-holder">
+				<div class="bulb" id="bulb_pink"></div>
+			</div>
+			<div class="col-md-2 col-xs-2 bulb-holder">
+				<div class="bulb" id="bulb_orange"></div>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-md-12 text-center">
+				<img src="banner.png" class="bannar">
+			</div>
+		</div>
+		<div class="row cake-cover">
+			<div class="col-md-12 texr-center">
+				<div class="cake">
+				  <div class="velas">
+				    <div class="fuego"></div>
+				    <div class="fuego"></div>
+				    <div class="fuego"></div>
+				    <div class="fuego"></div>
+				    <div class="fuego"></div>
+				  </div>
+				  <div class="cobertura"></div>
+				  <div class="bizcocho"></div>
+				</div>
+			</div>
+		</div>
+		<div class="row message">
+			<div class="col-md-12">
+				<p style="text-align: center;">Here is a sincere three-paragraph birthday message crafted for a close friend.</p>
+				<p style="text-align: center;">Happy Birthday! As another year rolls around, I’ve been reflecting on our friendship.......</p>
+				<p style="text-align: center;">pati na ahhh, ari na</p>
+				<p style="text-align: center;">Yann thank you gid sa tanan mo nga gin ubra</p>
+				<p style="text-align: center;">Sa tanan nga pangasadya</p>
+				<p style="text-align: center;"><strong>kag pangasubo</strong></p>
+				<p style="text-align: center;">Tani pirme ka lang ga smile kag gatawa kay daw pirme man lang HAHAHA</p>
+				<p style="text-align: center;">Pero sympre tani di mag bag-o nga</p>
+				<p style="text-align: center;">Ga tulog ka, kag gakatulala BWAHAHAHAHA</p>
+				<p style="text-align: center;">SHEEEEESH Petitmal yarnnn??</p>
+				<p style="text-align: center;">Pero sympre yann</p>
+				<p style="text-align: center;">happy gid ko, kag happy gid kami nga nakarot mate kaw namon</p>
+				<p style="text-align: center;">kay sympre kung may posters/ppt ikaw gasalo MWEHEHEHE</p>
+				<p style="text-align: center;">Thank you yannnn!!!</p>
+				<p style="text-align: center;">Pero brother, thank you gid kay</p>
+				<p style="text-align: center;">..............</p>
+				<p style="text-align: center;">kay.........</p>
+				<p style="text-align: center;">ano to gni? nalipat akooo</p>
+				<p style="text-align: center;">Pero broski... Tanii....</p>
+				<p style="text-align: center;">Taniii... bala nga....</p>
+				<p style="text-align: center;">Paliguon mo naman kami da sa swimming pool ka Avida</p>
+				<p style="text-align: center;">BWAHAHAHAHAHAH</p>
+				<p style="text-align: center;">Pati na bro ah, pero brother!!!!!</p>
+				<p style="text-align: center;">HAPPPY HAPPPY BIRTHDAYYYY</p>
+				<p style="text-align: center;">I HOPE YOU HAD A WONDERFUL DAY TODAY!!!</p>
+				<p style="text-align: center;">And ofcourse be happy and smile always kay </p>
+				<p style="text-align: center;">katahom daan sang vibe, baw katahom? ano na masimhotan ang vibe?</p>
+				<p style="text-align: center;">I hope nga you will continue to be who you are</p>
+				<p style="text-align: center;">and ofcourse, I hope nga mag continue aton friendship</p>
+				<p style="text-align: center;">Di ko na maghambal nga stay beautiful ahhh</p>
+				<p style="text-align: center;">Kay gorgoeus kanaman nga daan</p>
+				<p style="text-align: center;">Teh way gid da 10 pesos? BWAHAHAHHAHA</p>
+				<p style="text-align: center;">pati na brother ah</p>
+				<p style="text-align: center;">HAPPY</p>
+				<p style="text-align: center;">HAPPY</p>
+				<p style="text-align: center;">BIRTHDAY</p>
+				<p style="text-align: center;">OUR</p>
+				<p style="text-align: center;">DEAR</p>
+				<p style="text-align: center;">A</p>
+				<p style="text-align: center;">L</p>
+				<p style="text-align: center;">Y</p>
+				<p style="text-align: center;">A</p>
+				<p style="text-align: center;">N</p>
+				<p style="text-align: center;">A</p>
+				<p style="text-align: center;">T</p>
+				<p style="text-align: center;">I</p>
+      				<p style="text-align: center;">C</p>
+                                <p style="text-align: center;"> DI MAG HIBI</p>
+                                <p style="text-align: center;"> Do you want to make it more meaningful and sincere?</p>
+			</div>
+		</div>
+		<div class="navbar navbar-fixed-bottom">
+			<div class="row">
+				<div class="col-md-6 text-center col-md-offset-3">
+					<button class="btn btn-primary" id="turn_on">Ngaa kadulom? Pasigaon mo eh??</button>
+					<button class="btn btn-primary" id="play">Kalinong? Teh tum-uka ko ateee</button>
+					<button class="btn btn-primary" id="bannar_coming">Ka lonely? Dugangan ta eh</button>
+					<button class="btn btn-primary" id="balloons_flying">Need mo balloons? Indi na ah</button>
+					<button class="btn btn-primary" id="cake_fadein">Ari virtual cake</button>
+					<button class="btn btn-primary" id="light_candle">Let there be light</button>
+					<button class="btn btn-primary" id="wish_message">Happy Birthday Alyanatics</button>
+					<button class="btn btn-primary" id="story">A message for you? Wow bulii ehh noh?</button>
+					<!-- <button class="btn btn-primary" id="cake_cut">Kaon ta ah nagutom ko!</button> -->
+				</div>
+			</div>
+			<!-- <div class="col-md-2">
+			</div>
+			<div class="col-md-2">
+			</div>
+			<div class="col-md-2">
+			</div>
+			<div class="col-md-2">
+			</div>
+			<div class="col-md-2">
+			</div> -->
+		</div>
+
+
+	</div>
+</body>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
+<script src="effect.js"></script>
+</html>
